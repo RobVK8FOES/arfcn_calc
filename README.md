@@ -27,4 +27,3 @@ EXAMPLE USAGE:
 
 arfcn_calc 122
 arfcn_calc 959.4
-
