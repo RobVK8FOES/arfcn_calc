@@ -25,5 +25,4 @@ sudo rm -r ~/arfcn_calc/
 
 EXAMPLE USAGE:
 
-arfcn_calc 122
-arfcn_calc 959.4
+arfcn_calc 122 OR arfcn_calc 959.4
